@@ -21,3 +21,11 @@ lazy.nvim:
     end,
 },
 ```
+
+# Doc
+
+To press `<leader><leader>`, find files under current directory.
+![find-files-show](./img/Snipaste_2024-08-17_10-52-33.png)
+
+To press `<C-a>` in input box, create new file or new directory if the path does not exist after getting your `y`(yes).
+![create-show](./img/Snipaste_2024-08-17_10-51-25.png)
